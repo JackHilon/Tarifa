@@ -7,6 +7,8 @@ namespace Tarifa
     {
         static void Main(string[] args)
         {
+            // https://open.kattis.com/problems/tarifa
+            
             var firstString = Console.ReadLine();
             var firstNumber = SimpleConverter(firstString);
 
